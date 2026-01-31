@@ -1,2 +1,0 @@
-# goldys-portfolio
-my portfolio
